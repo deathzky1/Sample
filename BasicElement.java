@@ -5,6 +5,8 @@ class BasicElement{
 
 		myFrame.setDefaultCloseOperation(myFrame.EXIT.ON.CLOSE);
 		frame.setVisible(true);
+
+		myFrame.setSize(900, 600);
 	System.out.println("hello");
 
 	}
